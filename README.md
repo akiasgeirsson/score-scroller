@@ -12,8 +12,10 @@ the program will adjust the size to fit the screen.
 start the program: score_scroller_07
 choose your image file
 adjust the minutes and seconds to the desired duration by clicking and dragging the numbers (down to increase)
+
 if preferred, adjust playhead position
 the offset value can be used for practicing certain parts of the piece
+
 press play to start scrolling
 press stop to stop
 
@@ -25,7 +27,5 @@ in that case, try other formats, compression or try to match the height of the f
 
 Written for composition students in Monash University, Melbourne, in october 2018.
 
-Aki Asgeirsson
-aki@slatur.is
-www.aki.is
+Aki Asgeirsson - aki@slatur.is - www.aki.is
 
