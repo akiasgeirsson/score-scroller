@@ -6,7 +6,7 @@ This application loads an image file and moves it across the screen from right t
 Instructions:
 
 first prepare a score file.  
-make sure it is a bitmap file or one of these file types: .gif, .jpg, .tga, .png
+make sure it is a bitmap file, one of these file types: .gif, .jpg, .tga, .png
 the program will adjust the size to fit the screen.
 
 start the program: score_scroller_07
@@ -23,4 +23,9 @@ keep a look at the framerate number, if it is too low then the file is too big o
 in that case, try other formats, compression or try to match the height of the file to the screen size.
 
 
+Written for composition students in Monash University, Melbourne, in october 2018.
+
+Aki Asgeirsson
+aki@slatur.is
+www.aki.is
 
