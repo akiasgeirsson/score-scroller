@@ -3,6 +3,8 @@ Music Reader - for scrolling score images
 
 This application loads an image file and moves it across the screen from right to left, over a certain duration period.
 
+===
+
 Instructions:
 
 first prepare a score file.  
@@ -25,12 +27,15 @@ press play to start scrolling
 
 press stop to stop
 
+===
 
 Possible problems:
 
 keep a look at the framerate number, if it is too low then the file is too big or the computer too slow.  
 
 in that case, try other formats, compression or try to match the height of the file to the screen size.
+
+===
 
 
 Written for composition students in Monash University, Melbourne, in october 2018.
